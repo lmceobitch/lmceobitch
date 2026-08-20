@@ -1,9 +1,9 @@
-<img width="735" height="1167" alt="5204186884903475601" src="https://github.com/user-attachments/assets/4428c8be-800e-4cd4-a273-529240f16ff2" />
+<img width="735" height="1000" alt="5204186884903475601" src="https://github.com/user-attachments/assets/4428c8be-800e-4cd4-a273-529240f16ff2" />
 
 ### about
 
 15 year old software engineer & ML enthusiast. Currently working on developing a Crypto Wallet app. 
-
+I use Arch btw.
 ---
 
 ### core skills
