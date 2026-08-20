@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8ae03f8d-f514-4ad1-b010-c9052fa28c95" width="100%" height="130" alt="Banner" />
+<img src="https://github.com/user-attachments/assets/8ae03f8d-f514-4ad1-b010-c9052fa28c95" width="100%" height="180" alt="Banner" />
 <br/><br/>
 
 [![Stars](https://img.shields.io/badge/STARS-11-black?style=for-the-badge)]()
