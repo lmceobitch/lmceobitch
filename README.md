@@ -13,7 +13,7 @@
 
 ## Know About Me
 
-<img width="735" height="493" alt="ochi" src="https://github.com/user-attachments/assets/92907382-d6cb-411e-829a-938ad81c9e29" />
+<img align="left" width="180" src="https://github.com/user-attachments/assets/92907382-d6cb-411e-829a-938ad81c9e29" alt="ochi" />
 
 Hey there! I'm Michael
 
