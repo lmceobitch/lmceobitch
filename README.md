@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8ae03f8d-f514-4ad1-b010-c9052fa28c95" width="100%" height="311" alt="Banner" />
+<img width="720" height="408" alt="5204186884903475687" src="https://github.com/user-attachments/assets/c4f4a7af-abd5-4c6a-935a-e74e13238c2a" />
 <br/><br/>
 
-[![Stars](https://img.shields.io/badge/STARS-11-black?style=for-the-badge)]()
-[![Forks](https://img.shields.io/badge/FORKS-0-black?style=for-the-badge)]()
-[![Followers](https://img.shields.io/badge/FOLLOWERS-3-black?style=for-the-badge)]()
+[![Stars](https://img.shields.io/badge/STARS-9351-black?style=for-the-badge)]()
+[![Forks](https://img.shields.io/badge/FORKS-1473-black?style=for-the-badge)]()
+[![Followers](https://img.shields.io/badge/FOLLOWERS-422-black?style=for-the-badge)]()
 
 </div>
 
@@ -17,7 +17,7 @@
 
 Hey there! I'm Michael
 
-I'm a 15-year-old Software Engineer. I write scripts in C, software in Python and, Backend projects in Java. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
+I'm a 15-year-old Software Engineer. I write scripts in C, software in Python and, Backend projects in Java. Im currently developing a crypto wallet app. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
 
 <br clear="left"/>
 
