@@ -25,7 +25,7 @@ I'm a 15-year-old Software Engineer. I write scripts in C, software in Python an
 
 ## Top Projects (built to avoid manual labor)
 
-<img align="right" width="120" src="https://github.com/user-attachments/assets/CODUL_TAU" alt="scut" />
+<img align="right" width="120" src="https://github.com/user-attachments/assets/5c34b84b-873b-452b-973b-69f77f3f0b66" alt="scut" />
 
 * **[hashwatch](https://github.com/lmceobitch/hashwatch)** — File hashing (chain of custody), filesystem timeline reconstruction, EXIF/PDF metadata extraction, and SSH log intrusion detection. `C` `Python`
 * **[QR_code-generator](https://github.com/lmceobitch/QR_code-generator)** — Small script that generates a QR code straight in the terminal — no files saved. `Python`
