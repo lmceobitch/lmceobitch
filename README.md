@@ -13,7 +13,7 @@
 
 ## Know About Me
 
-<img align="left" width="180" src="https://github.com/user-attachments/assets/e48d68e1-1860-4687-a733-1ea2e6e1f5e8" alt="Brain" />
+<img width="735" height="493" alt="ochi" src="https://github.com/user-attachments/assets/3b108f40-eb43-41fe-8f1b-b9603543c373" />
 
 Hey there! I'm Michael
 
