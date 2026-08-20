@@ -1,7 +1,3 @@
-<h1 align="center">Michael</h1>
-<p align="center">aspiring law enforcement & cybersecurity</p>
-
----
 
 ### about
 
