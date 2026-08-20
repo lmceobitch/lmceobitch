@@ -1,8 +1,4 @@
-<div align="center">
-
-# Synax!
-
-![Banner](https://i.postimg.org/3N3x8x6Y/banner.png)
+<img width="735" height="475" alt="5204186884903475623" src="https://github.com/user-attachments/assets/8ae03f8d-f514-4ad1-b010-c9052fa28c95" />
 
 [![Stars](https://img.shields.io/badge/STARS-11-black?style=for-the-badge)]()
 [![Forks](https://img.shields.io/badge/FORKS-0-black?style=for-the-badge)]()
@@ -14,11 +10,10 @@
 
 ## Know About Me
 
-<img align="left" width="180" src="https://i.postimg.org/8kX4mGZ7/brain.png" alt="Brain">
+<img width="735" height="493" alt="5204186884903475632" src="https://github.com/user-attachments/assets/e48d68e1-1860-4687-a733-1ea2e6e1f5e8" />
+Hey there! I'm Michael
 
-Hey there! I'm Karthick
-
-I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+I'm a 15-year-old Software Engineer. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
 
 <br clear="left"/>
 
@@ -26,11 +21,13 @@ I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession w
 
 ## Top Projects (built to avoid manual labor)
 
-<img align="right" width="120" src="https://i.postimg.org/5N39xJ7Z/fire.png" alt="Fire">
+<img width="736" height="981" alt="5204186884903475642" src="https://github.com/user-attachments/assets/971951b5-2675-4b2e-8b16-91da353af6a0" />
 
-* **[`FILEGHOST`](https://github.com)** — Secure file sharing, because some code needs to self-destruct gracefully.
-* **[`GEN_GHOST_V1`](https://github.com)** — A Discord bot that manages my server better than I manage my sleep schedule.
-* **[`QN_DOCS`](https://github.com)** — RAG-based AI to read text files for me, because reading is hard.
+
+**[hashwatch](https://github.com/lmceobitch/hashwatch)**
+File hashing (chain of custody), filesystem timeline reconstruction, EXIF/PDF metadata extraction, and SSH log intrusion detection. `C` `Python`
+**[QR_code-generator](https://github.com/lmceobitch/QR_code-generator)**
+Small script that generates a QR code straight in the terminal — no files saved. `Python`
 
 <br clear="right"/>
 
@@ -47,9 +44,7 @@ I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession w
 
 </div>
 
-> Code is never finished. It only becomes slightly less terrible over time.
->
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+> Code is never finished. It only becomes slightly less terrible over time. If it works dont touch it.
 
 ---
 
