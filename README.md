@@ -18,7 +18,7 @@
 
 Hey there! I'm Michael
 
-I'm a 15-year-old Software Engineer. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
+I'm a 15-year-old Software Engineer. I write scripts in C, software in Python and, Backend projects in Java. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
 
 <br clear="left"/>
 
@@ -52,4 +52,4 @@ I'm a 15-year-old Software Engineer. By day, I pretend to understand the univers
 
 ## Contribution
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Synaptara&theme=github-compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lmceobitch&theme=github-compact)
