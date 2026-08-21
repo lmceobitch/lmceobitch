@@ -31,7 +31,7 @@ I'm a 15-year-old Software Engineer. I write scripts in C, software in Python an
 * **[QR_code-generator](https://github.com/lmceobitch/QR_code-generator)** — Small script that generates a QR code straight in the terminal — no files saved. `Python`
 * **[Cryptor](https://github.com/lmceobitch/cryptor)** — Python CLI tool for encrypting and decrypting text using AES-256-GCM or a custom multi-layer cipher.
 * **[Auf-Download-Manager](https://github.com/lmceobitch/Auf-Download-Manager)** — A simple CLI download manager in Python — parallel multi-connection downloads, automatic resume, live progress bar.
-  
+* **[ShtoshCalculator](https://github.com/lmceobitch/ShtoshCalculator)** — A dark-themed desktop calculator built with Java Swing — supports basic operations, keyboard input, and window resizing.
 <br clear="right"/>
 
 ---
