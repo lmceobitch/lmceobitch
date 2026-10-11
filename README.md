@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="720" height="408" alt="5204186884903475687" src="https://github.com/user-attachments/assets/c4f4a7af-abd5-4c6a-935a-e74e13238c2a" />
+<img width="720" height="408" alt="Digital Forensics Toolkit" src="https://github.com/user-attachments/assets/85660f9f-4396-4a84-8e3c-be9a7113334d" />
 <br/><br/>
 
 [![Stars](https://img.shields.io/badge/STARS-9351-black?style=for-the-badge)]()
