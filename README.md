@@ -17,7 +17,7 @@
 
 Hey there! I'm Michael
 
-I'm a 15-year-old. I write in C, software in Python and, in Java. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V Online or doomscrolling.
+I'm a 15-year-old. I write in C, software in Python and, in Java. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually playing GTA V Online or doomscrolling.
 
 <br clear="left"/>
 
