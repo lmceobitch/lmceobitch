@@ -37,14 +37,14 @@ I'm a 15-year-old. I write in C, software in Python ,  and in Java.I watch anime
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/lmceobitch)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail)](mailto:example@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail)](mailto:michaeldeveloper22@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-black?style=for-the-badge)](https://example.com)
 
 </div>
 
-> Code is never finished. It only becomes slightly less terrible over time. If it works dont touch it.
+> Code is never finished. If it works dont touch it.
 
 ---
 
