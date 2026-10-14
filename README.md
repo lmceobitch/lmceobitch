@@ -17,13 +17,13 @@
 
 Hey there! I'm Michael
 
-I'm a 15-year-old. I write in C, software in Python and, in Java. By day, I pretend to understand the universe. By night, I write Python scripts and software to automate myself out of doing actual work. When I'm not coding, I'm usually playing GTA V Online or doomscrolling.
+I'm a 15-year-old. I write in C, software in Python ,  and in Java.I watch anime and car reviewers, its just interesting. When I'm not coding, I'm usually playing GTA V Online or doomscrolling. And i did watch Python videos and some C tutorials but they are so boring just don't try to do it all in one day.
 
 <br clear="left"/>
 
 ---
 
-## Top Projects (built to avoid manual labor)
+## Top Projects (i built them to solve a problem i was going through)
 
 <img align="right" width="120" src="https://github.com/user-attachments/assets/5c34b84b-873b-452b-973b-69f77f3f0b66" alt="scut" />
 
