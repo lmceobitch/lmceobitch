@@ -27,9 +27,9 @@ I'm a 15-year-old. I write in C, software in Python ,  and in Java.I watch anime
 
 <img align="right" width="120" src="https://github.com/user-attachments/assets/5c34b84b-873b-452b-973b-69f77f3f0b66" alt="scut" />
 
-* **[hashwatch](https://github.com/lmceobitch/hashwatch)** — File hashing (chain of custody), filesystem timeline reconstruction, EXIF/PDF metadata extraction, and SSH log intrusion detection. `C` `Python`
+* **[hashwatch](https://github.com/lmceobitch/hashwatch)** — File hashing,EXIF/PDF metadata extraction, and SSH log intrusion detection. `C` `Python`
 * **[QR_code-generator](https://github.com/lmceobitch/QR_code-generator)** — Small script that generates a QR code straight in the terminal — no files saved. `Python`
-* **[Cryptor](https://github.com/lmceobitch/cryptor)** — Python CLI tool for encrypting and decrypting text using AES-256-GCM or a custom multi-layer cipher.
+* **[Cryptor](https://github.com/lmceobitch/cryptor)** — Python tool for encrypting and decrypting messages and passwords.
 
 ---
 
